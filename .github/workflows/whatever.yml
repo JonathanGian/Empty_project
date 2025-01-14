@@ -23,5 +23,5 @@ jobs:
 
       - name: Test 🚨
         run: npm test
-      - name: Error
-        run: echo "About to fail" ; exit 1
+
+
