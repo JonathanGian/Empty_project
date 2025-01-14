@@ -23,5 +23,4 @@ jobs:
 
       - name: Test 🚨
         run: npm test
-      - name: Fail
-        run : exit 1
+     
