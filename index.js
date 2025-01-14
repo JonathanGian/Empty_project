@@ -4,5 +4,5 @@ function isNullOrEmpty(input) {
     return (input === undefined || input === null || input === '');
 }
 
-// Make the main function available to other packages that require us
+// Make the main function available to other packages that require uss
 module.exports = isNullOrEmpty;
